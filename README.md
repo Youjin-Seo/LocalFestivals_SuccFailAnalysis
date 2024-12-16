@@ -6,13 +6,10 @@
 ## 🫶 팀 구성
 - 김동환(팀장), 김민, 서유진, 이수린, 장다연
 
-## 🔍 분석 흐름
-1. 데이터 수집
-2. 데이터 전처리 및 병합 (축제 유형 재분류)
-3. EDA
-4. 성패 요인 파악 ('방문객/예산' 종속변수에 대한 feature importance 기반)
-5. 주요 성패 요인 변수를 기반으로 축제 클러스터링 (KMedoids 기반) ('방문객/예산' 및 '일 평균 방문객'을 기반으로 성공/실패 군집 구분)
-6. 축제 군집별 특징 및 주요 방문객 프로파일링
-7. 실패 축제 군집별 개선방안 제안 (성공 군집과의 공통점 및 차이점 기반)
 
-![image](https://github.com/user-attachments/assets/8cb800e1-e5e5-491f-8162-427609f16f3e)
+![image](https://github.com/user-attachments/assets/04b9ca35-7c72-41ff-8564-021dbfa1c45f)
+![image](https://github.com/user-attachments/assets/d92d8f06-2580-406a-8b83-aad336011749)
+![image](https://github.com/user-attachments/assets/f9337dab-91f1-482c-836d-dff72e10cb9a)
+![image](https://github.com/user-attachments/assets/2a663b3d-407f-4793-ba27-48caa673471a)
+![image](https://github.com/user-attachments/assets/bad25ccb-1cfc-4e5f-a763-b11469dd522e)
+![image](https://github.com/user-attachments/assets/de6a4e99-4f5c-4469-8833-a06c79917ee3)
