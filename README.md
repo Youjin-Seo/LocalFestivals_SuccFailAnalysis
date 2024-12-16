@@ -6,7 +6,7 @@
 ## 🫶 팀 구성
 - 김동환(팀장), 김민, 서유진, 이수린, 장다연
 
-
+<p align="center">
 ![image](https://github.com/user-attachments/assets/04b9ca35-7c72-41ff-8564-021dbfa1c45f)
 </br>
 ![image](https://github.com/user-attachments/assets/d92d8f06-2580-406a-8b83-aad336011749)
